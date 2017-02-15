@@ -12,9 +12,8 @@
 		<link rel="stylesheet" href="main.css" type="text/css"/>
 	</head>
 	<body>
-
-
-		<!-- Header -->
+        
+       <!-- Header -->
 	<header id="header">
 		<div class="inner">
 			<nav id="nav">
