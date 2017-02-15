@@ -1,0 +1,5 @@
+D:\Sistema\testglasses\testglasses\bin\testglasses.dll
+D:\Sistema\testglasses\testglasses\bin\testglasses.pdb
+D:\Sistema\testglasses\testglasses\obj\Debug\testglasses.csprojResolveAssemblyReference.cache
+D:\Sistema\testglasses\testglasses\obj\Debug\testglasses.dll
+D:\Sistema\testglasses\testglasses\obj\Debug\testglasses.pdb
