@@ -74,12 +74,6 @@
                         <input value="Enviar" class="button alt" type="submit"></li>
                 </ul>
             </form>
-
-            <div class="copyright">
-                &copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>.
-	
-            </div>
-
         </div>
     </footer>
 
