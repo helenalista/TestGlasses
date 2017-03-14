@@ -24,6 +24,7 @@
             <a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
         </div>
     </header>
+
     <!-- Intro -->
     <div class="row">
         <section class="6u 12u$(medium)">

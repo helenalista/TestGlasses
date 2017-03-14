@@ -86,7 +86,7 @@
 	        </header>
 		       <p>Os melhores modelos, os modelos na moda,<br /> tudo o que voce precisa<br /> esta aqui.</p>
 	        <footer>
-		        <a href="#" class="button">Ver</a>
+		        <a href="ver.aspx" class="button">Ver</a>
 	        </footer>
 	        </article>
 		</div>

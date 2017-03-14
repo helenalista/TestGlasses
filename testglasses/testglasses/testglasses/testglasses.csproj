@@ -72,6 +72,7 @@
     <Content Include="testglasses\oc.png" />
     <Content Include="testglasses\tempo.png" />
     <Content Include="testglasses\tt.png" />
+    <Content Include="testglasses\ver.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -104,6 +105,13 @@
       <DependentUpon>index.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="testglasses\ver.aspx.cs">
+      <DependentUpon>ver.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="testglasses\ver.aspx.designer.cs">
+      <DependentUpon>ver.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Web.Debug.config">

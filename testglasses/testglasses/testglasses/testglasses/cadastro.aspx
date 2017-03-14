@@ -32,6 +32,7 @@
 		</div>
 	</header>
 
+
         <!-- Cadastro -->
 <!-- Footer -->
 	<footer id="footer">
