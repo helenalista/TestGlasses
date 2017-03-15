@@ -35,23 +35,10 @@
         </section>
     </div>
     <ul class="icons">
-        <img src="tt.png" />
-        <li>
-            <p>Twitter</p>
-        </li>
-        <br/>
-	
-        <img src="fb.png" />
-        <li>
-            <p>Facebook</p>
-        </li>
-        <br/>
-       
-        <img src="is.png" />
-        <li>
-            <p>Instagram</p>
-        </li>
-    </ul>
+			<li><a href='https://twitter.com/'><img src="tt.png" alt="Twitter"/></a></li>
+			<li><a href='https://www.facebook.com/'><img src="fb.png" alt="Facebook"/></a></li>
+			<li><a href='https://www.instagram.com/'><img src="is.png" alt="Instagram"/></a></li>
+	</ul>
 
     <!-- Footer -->
     <footer id="footer1">

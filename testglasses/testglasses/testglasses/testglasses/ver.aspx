@@ -16,7 +16,7 @@
 	<!-- Header -->
     <a name="primeiro"></a>
 	<header id="header">
-		<div class="inner">
+		<div class="inner1">
 			<nav id="nav">
 				<a href="#primeiro">Home</a>
 				<a href="cadastro.aspx">Cadastro</a>
@@ -25,14 +25,13 @@
 			<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
 		</div>
     </header>
-         <!-- Banner -->
-	<section id="banner">
-	<div class="inner">
-	<header>
-		<h1>Test Glasses</h1>
-        </section>
+      
+	<div class="inner1">
+	
+		<h2>Escolha um modelo de óculos que preferir</h2>
+      
         </div>
-	</header>
+	
 	<!-- Gallery -->
 		<section id="galleries">
 <!-- Photo Galleries -->
