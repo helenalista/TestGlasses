@@ -30,7 +30,10 @@
         <!-- Cadastro -->
 <!-- Footer -->
 	<footer id="footer">
-		<div class="inner">
+		<div class="login" style="
+    background-color: rgb(141, 204, 169);
+    margin-left: 10em;
+    margin-right: 10em;">
 			<h3>Login</h3>
 			<img src="login.png"/>
             <form id="form1" runat="server">

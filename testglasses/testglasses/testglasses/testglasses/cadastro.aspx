@@ -31,22 +31,31 @@
 			<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
 		</div>
 	</header>
-
-
         <!-- Cadastro -->
 <!-- Footer -->
 	<footer id="footer">
-		<div class="inner">
+		<div class="cadastro" style="
+    background-color: rgb(141, 204, 169);
+    margin-left: 10em;
+    margin-right: 10em;">
 			<h3>Cadastro</h3>
-			<img src="cadastro.png"/>
-            <form id="form1" runat="server">
+			<img src="cadastro.png">
+            <form method="post" action="cadastro.aspx" id="form2">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="+SOjUl1J2JHz6pwSMeVc/9j06uhQR/2mdcCFj05I3AuNcvd5+QlU08u7kB9CCDsOHXL6CYl3QPIj+R3gAXNREqf5+QVmPSEvf1LQ1oWYVQ4=">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="kryT6UIPM7tQ0TZFH98nsM1LvC4KBIKFrBz/R0aG58tbAWF0Z8bWgt80saSG9h1bV31y9CeuveFK6lOO7U+mTvwhV3GppVfUGn/W+nb7Fl9vuX2vNtTbhrzp4XkYm1Zo">
+</div>
 
         <table cellspacing="10">
-             <tr>
+             <tbody><tr>
             <td>
                 <label for="nome">* Nome Completo</label>
             </td>
-            <tr>
+            </tr><tr>
                 
              <td align="left">
                 <input type="text" name="nome" value="Nome Completo">
@@ -56,7 +65,7 @@
               <td>
                 <label for="email">* Email</label>
               </td>
-                <tr>
+                </tr><tr>
               <td align="left">
                 <input type="text" name="email" value="Email">
               </td>
@@ -65,17 +74,19 @@
                 <td>
                 <label for="senha">* Senha</label>
             </td>
-            <tr>
+            </tr><tr>
             <td align="left">
                 <input type="text" name="senha" value="Senha">
-                   <br />
-                <asp:Button ID="Button1" runat="server" Text="Cadastrar" />    
+                   <br>
+                <input type="submit" name="Button1" value="Cadastrar" id="Submit1">    
             </td>
             </tr>
-            </tr>
-            </tr>
             
-         </table>
+            
+            
+         </tbody>
+
+        </table>
 			</form>
 			</div>
 		</footer>

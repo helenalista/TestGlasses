@@ -5,6 +5,7 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 -->
 <html>
+     
 	<head>
 		<title>Test Glasses</title>
 		<meta charset="utf-8" />
@@ -12,11 +13,11 @@
 		<link rel="stylesheet" href="main.css" type="text/css"/>
 	</head>
 	<body>
-
+       
 	<!-- Header -->
     <a name="primeiro"></a>
 	<header id="header">
-		<div class="inner1">
+		<div class="inner">
 			<nav id="nav">
 				<a href="#primeiro">Home</a>
 				<a href="cadastro.aspx">Cadastro</a>
@@ -25,8 +26,11 @@
 			<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
 		</div>
     </header>
-      
-	<div class="inner1">
+          <!-- Banner -->
+	<section id="banner">
+	<div class="inner">
+	      
+	<div id="ver">
 	
 		<h2>Escolha um modelo de óculos que preferir</h2>
       
@@ -84,6 +88,7 @@
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
+        
 	</body>
+
 </html>
