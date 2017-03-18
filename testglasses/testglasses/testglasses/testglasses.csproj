@@ -57,6 +57,14 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\app01.mdf" />
+    <Content Include="App_Data\app01_log.ldf">
+      <DependentUpon>app01.mdf</DependentUpon>
+    </Content>
+    <Content Include="App_Data\bd.mdf" />
+    <Content Include="App_Data\bd_log.ldf">
+      <DependentUpon>bd.mdf</DependentUpon>
+    </Content>
     <Content Include="testglasses\login.aspx" />
     <Content Include="testglasses\cadastro.aspx" />
     <Content Include="testglasses\cadastro.png" />
@@ -76,6 +84,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="sistema.cs" />
     <Compile Include="testglasses\login.aspx.cs">
       <DependentUpon>login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

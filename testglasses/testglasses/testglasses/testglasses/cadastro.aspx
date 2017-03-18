@@ -1,7 +1,9 @@
-﻿<!DOCTYPE HTML>
+﻿ <%@ Page Language="C#" Debug="true" %> 
+
+<!DOCTYPE HTML>
 <script runat="server">
 
-    Protected Sub Button2_Click(sender As Object, e As EventArgs)
+    Protected Sub Button2_Click(object sender, EventArgs e)
 
     End Sub
 </script>
