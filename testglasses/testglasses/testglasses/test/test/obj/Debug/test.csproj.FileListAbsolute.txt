@@ -1,0 +1,4 @@
+D:\TestGlasses\testglasses\testglasses\testglasses\test\test\bin\test.dll
+D:\TestGlasses\testglasses\testglasses\testglasses\test\test\bin\test.pdb
+D:\TestGlasses\testglasses\testglasses\testglasses\test\test\obj\Debug\test.dll
+D:\TestGlasses\testglasses\testglasses\testglasses\test\test\obj\Debug\test.pdb
